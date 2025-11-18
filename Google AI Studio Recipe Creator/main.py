@@ -26,8 +26,8 @@ import operator
 # =============================================================================
 # CONFIGURATION
 # =============================================================================
-GOOGLE_API_KEY = "AIzaSyBq3XbBUGmQDZefsnpkA2EyUs_4t52PacE"
-NUTRITION_API_KEY = "O6D2W2XklbtxEUvB2uDiBg==7aDTZgDoxbQZh60u"
+GOOGLE_API_KEY = ""
+NUTRITION_API_KEY = ""
 
 # =============================================================================
 # FASTAPI APP SETUP
@@ -312,7 +312,7 @@ class RecipeState(TypedDict):
 def get_llm(temperature: float = 0.7, tools: Optional[List] = None):
     """Get configured LLM instance"""
     llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-pro",
+        model="gemini-2.5-flash",
         google_api_key=GOOGLE_API_KEY,
         temperature=temperature
     )
