@@ -1,0 +1,126 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Aromatic South Indian Tomato & Potato Rice",
+  "description": "A savory and aromatic one-pot rice dish, combining the heartiness of potatoes with the tangy flavor of tomatoes and fragrant South Indian spices. A complete, flavorful meal that is both vegetarian and gluten-free.",
+  "author": "Gemini Chef",
+  "cuisine": "South Indian",
+  "difficulty": "Medium",
+  "prepTime": "PT15M",
+  "cookTime": "PT30M",
+  "totalTime": "PT45M",
+  "recipeYield": "4 Servings",
+  "recipeIngredient": [
+    "300 g long-grain rice (like Basmati)",
+    "300 g potatoes (about 2 medium), peeled and diced",
+    "150 g onion (1 large), finely chopped",
+    "250 g tomatoes (2 large), chopped",
+    "20 g garlic (4-5 cloves), minced",
+    "3 tbsp Sunflower Oil",
+    "1 tsp Cumin Seeds",
+    "1 tsp Turmeric Powder",
+    "1/2 tsp freshly ground Black Pepper",
+    "1.5 tsp Salt (or to taste)",
+    "600 ml Water"
+  ],
+  "recipeInstructions": [
+    "Rinse the rice under cold water until the water runs clear. Set aside.",
+    "Heat the sunflower oil in a large pot or Dutch oven over medium-high heat. Add the cumin seeds and let them sizzle for about 30 seconds until fragrant.",
+    "Add the finely chopped onions and minced garlic. Sauté for 3-4 minutes until the onions become translucent and soft.",
+    "Add the diced potatoes and cook for 5 minutes, stirring occasionally, until they begin to soften slightly.",
+    "Stir in the chopped tomatoes, turmeric powder, black pepper, and salt. Cook for another 4-5 minutes, until the tomatoes break down and form a thick, pulpy sauce.",
+    "Add the rinsed rice to the pot and gently stir for one minute to coat the grains with the spice mixture.",
+    "Pour in the 600 ml of water and bring the mixture to a rolling boil.",
+    "Once boiling, reduce the heat to low, cover the pot with a tight-fitting lid, and let it simmer for 15-20 minutes, or until all the water is absorbed and the rice is fully cooked. Do not lift the lid during this time.",
+    "Turn off the heat and let the pot stand, still covered, for at least 5-10 minutes. This allows the rice to steam and become fluffy.",
+    "Gently fluff the rice with a fork before serving hot."
+  ],
+  "nutrition": {
+    "calories": 357.7,
+    "protein_g": 8.1,
+    "fat_total_g": 11.88,
+    "carbohydrates_total_g": 61.73,
+    "fiber_g": 9.75,
+    "sugar_g": 4.53,
+    "sodium_mg": 2178.5
+  },
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet",
+    "https://schema.org/GlutenFreeDiet"
+  ],
+  "shoppingList": [
+    {
+      "item": "600 ml of Water",
+      "category": "Other",
+      "status": "need_to_purchase"
+    }
+  ],
+  "availableItems": [
+    {
+      "item": "300 g of Rice",
+      "category": "Grains",
+      "status": "available"
+    },
+    {
+      "item": "300 g of Potatoes",
+      "category": "Produce",
+      "status": "available"
+    },
+    {
+      "item": "150 g of Onions",
+      "category": "Produce",
+      "status": "available"
+    },
+    {
+      "item": "250 g of Tomatoes",
+      "category": "Produce",
+      "status": "available"
+    },
+    {
+      "item": "20 g of Garlic",
+      "category": "Produce",
+      "status": "available"
+    },
+    {
+      "item": "3 tbsp of Sunflower Oil",
+      "category": "Oils & Condiments",
+      "status": "available"
+    },
+    {
+      "item": "1 tsp of Cumin Seeds",
+      "category": "Spices",
+      "status": "available"
+    },
+    {
+      "item": "1 tsp of Turmeric Powder",
+      "category": "Spices",
+      "status": "available"
+    },
+    {
+      "item": "1/2 tsp of Black Pepper",
+      "category": "Spices",
+      "status": "available"
+    },
+    {
+      "item": "1.5 tsp of Salt",
+      "category": "Spices",
+      "status": "available"
+    }
+  ],
+  "shoppingByCategory": {
+    "Other": [
+      "600 ml of Water"
+    ]
+  },
+  "keywords": [
+    "Tomato Rice",
+    "South Indian",
+    "Vegetarian",
+    "Gluten-Free",
+    "One-Pot Meal",
+    "Potato Rice",
+    "Tomato Bhath"
+  ],
+  "datePublished": "2024-05-21",
+  "image": "https://example.com/south_indian_tomato_rice.jpg"
+}

@@ -1,0 +1,115 @@
+{
+  "recipe_id": "1ed9ea1a-3d1b-4aa4-93df-549a215b2b0e",
+  "recipe": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "South Indian Recipe",
+    "description": "AI-generated recipe",
+    "author": "AI Chef",
+    "cuisine": "South Indian",
+    "difficulty": "Medium",
+    "prepTime": "PT25M",
+    "cookTime": "PT25M",
+    "totalTime": "PT50M",
+    "recipeYield": "2",
+    "recipeIngredient": [],
+    "recipeInstructions": [],
+    "nutrition": {
+      "calories": 1381.7,
+      "protein_g": 16.75,
+      "fat_total_g": 114.65,
+      "carbohydrates_total_g": 96,
+      "fiber_g": 32.1,
+      "sugar_g": 12.4,
+      "sodium_mg": 1760.5
+    },
+    "shoppingList": [
+      {
+        "item": "Sunflower Oil",
+        "category": "Oils & Condiments",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Mustard Seeds",
+        "category": "Other",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Cumin Seeds",
+        "category": "Spices",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Turmeric Powder",
+        "category": "Spices",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Red Chili Powder",
+        "category": "Other",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Water",
+        "category": "Other",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Salt",
+        "category": "Spices",
+        "status": "need_to_purchase"
+      },
+      {
+        "item": "Fresh Cilantro",
+        "category": "Other",
+        "status": "need_to_purchase"
+      }
+    ],
+    "availableItems": [
+      {
+        "item": "Brown Basmati Rice",
+        "category": "Grains",
+        "status": "available"
+      },
+      {
+        "item": "Ripe Tomatoes",
+        "category": "Produce",
+        "status": "available"
+      },
+      {
+        "item": "Onion",
+        "category": "Produce",
+        "status": "available"
+      },
+      {
+        "item": "Garlic",
+        "category": "Produce",
+        "status": "available"
+      }
+    ],
+    "shoppingByCategory": {
+      "Oils & Condiments": [
+        "Sunflower Oil"
+      ],
+      "Other": [
+        "Mustard Seeds",
+        "Red Chili Powder",
+        "Water",
+        "Fresh Cilantro"
+      ],
+      "Spices": [
+        "Cumin Seeds",
+        "Turmeric Powder",
+        "Salt"
+      ]
+    },
+    "keywords": [
+      "South Indian",
+      "Medium"
+    ],
+    "datePublished": "2025-11-18",
+    "image": "https://via.placeholder.com/800x600"
+  },
+  "generation_time": "2025-11-18T13:15:28.702931",
+  "status": "success"
+}
